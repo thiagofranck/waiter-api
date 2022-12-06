@@ -16,12 +16,6 @@
   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/https:&#x2F;&#x2F;github.com&#x2F;thiagofranck/api?color=56BEB8">
 
   <img alt="Licença" src="https://img.shields.io/github/license/https:&#x2F;&#x2F;github.com&#x2F;thiagofranck/api?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/https:&#x2F;&#x2F;github.com&#x2F;thiagofranck/api?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/https:&#x2F;&#x2F;github.com&#x2F;thiagofranck/api?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/https:&#x2F;&#x2F;github.com&#x2F;thiagofranck/api?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
