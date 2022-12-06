@@ -18,8 +18,6 @@
   <img alt="Licença" src="https://img.shields.io/github/license/https:&#x2F;&#x2F;github.com&#x2F;thiagofranck/api?color=56BEB8">
 </p>
 
-<!-- Status -->
-
 <!-- <h4 align="center"> 
 	🚧  Api 🚀 Em construção...  🚧
 </h4> 
